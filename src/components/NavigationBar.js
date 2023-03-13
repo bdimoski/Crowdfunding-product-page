@@ -5,7 +5,7 @@ import hamburger from "../images/icon-hamburger.svg";
 import MobileNavbarAdditional from "./MobileNavbarAdditional";
 
 const Nav = styled.nav`
-  width: 111vw;
+  width: 100%;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -30,7 +30,7 @@ const List = styled.ul`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin-right: 11vw;
+  margin-right: 5vw;
   font-weight: 500;
   width: 243px;
   margin-top: 0px;
